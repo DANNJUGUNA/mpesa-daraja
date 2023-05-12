@@ -1,0 +1,18 @@
+current directory: /home/dan/Development/daraja-test/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/home/dan/.rbenv/versions/3.0.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/dan/Development/daraja-test/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230512-23545-u1ukow sitelibdir\=./.gem.20230512-23545-u1ukow clean
+
+current directory: /home/dan/Development/daraja-test/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230512-23545-u1ukow sitelibdir\=./.gem.20230512-23545-u1ukow
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/dan/Development/daraja-test/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230512-23545-u1ukow sitelibdir\=./.gem.20230512-23545-u1ukow install
+/bin/install -c -m 0755 websocket_mask.so ./.gem.20230512-23545-u1ukow
+
+current directory: /home/dan/Development/daraja-test/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230512-23545-u1ukow sitelibdir\=./.gem.20230512-23545-u1ukow clean
